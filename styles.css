@@ -49,7 +49,7 @@ input[type=text],input[type=email],input[type=int]
 input[type=submit]
 {
 	width: 100%;
-	background-color:#FFBC00;
+	background-color: #c2c2c2
 	color: white;
 	border: 2px solid #FFCB00;
 	padding: 10px;
